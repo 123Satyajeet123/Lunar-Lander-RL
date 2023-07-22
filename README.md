@@ -1,6 +1,9 @@
 # Lunar Lander Reinforcement Learning with Stable Baselines3 and Gym
 
-![Lunar Lander](images/lunar_lander.png)
+<p align="center">
+  <img src="https://wingedsheep.com/content/images/2020/08/lunarlander_trained_cropped.gif" alt="Moon Lander GIF">
+</p>
+
 
 Ilcome to the Lunar Lander Reinforcement Learning project! In this repository, I used the Stable Baselines3 library and OpenAI Gym's LunarLander environment to train an agent to successfully land a lunar lander on the moon's surface. The agent has undergone extensive training for 1 million steps to master the challenging task of landing safely.
 
